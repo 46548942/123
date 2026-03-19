@@ -1,0 +1,16 @@
+# Baby Care AI Tools
+
+Baby Care AI Tools is an open-source toolkit designed to help parents and caregivers manage baby care tasks efficiently using AI.
+
+## Features
+
+- Feeding tracking
+- Sleep pattern analysis
+- AI-assisted recommendations for common baby care issues
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YahaoBabyAI/baby-care-ai-tools.git
